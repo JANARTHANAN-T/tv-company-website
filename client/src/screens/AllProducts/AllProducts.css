@@ -1,0 +1,17 @@
+.image-wrapper{
+    overflow: hidden;
+}
+.image:hover{
+    transform: scale(1.03,1.03);
+}
+.view-more-wrapper{
+    border-top: 10px;
+    border-color: #e0dede;
+}
+.view-more-btn{
+    border: none;
+    padding: 5px;
+}
+.view-more-btn:hover{
+    transform: scale(1.1,1.1);
+}

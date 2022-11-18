@@ -1,0 +1,31 @@
+body{
+  overflow-x: hidden;
+}
+
+.pointer:hover{
+  cursor: pointer;
+}
+
+.logo-font{
+  font-family: 'Fira Sans', sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #00b7ff;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #007bff;
+}
